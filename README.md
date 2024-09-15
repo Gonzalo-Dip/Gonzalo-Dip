@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey,+What's+Up!;Universidad+Católica+Argentina;Data+Science+Enthusiast...;I'm+Gonzalo+Dip...;Developing+a+Discord+Bot..."/>
  
- <p>- <i>¡Hola! Soy Gonza, estudiante de Ciencia de Datos en la UCA. Me intereso en explorar y analizar datos para obtener insights significativos y resolver problemas. En mi perfil encontrarás proyectos relacionados con análisis de datos, machine learning y visualización de datos.</i></p>
+ <p>- <i> Hello! I'm Gonza, a Data Science student at UCA. I'm interested in exploring and analyzing data to obtain meaningful insights and solve problems. In my profile you will find projects related to data analysis, machine learning, and data visualization.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
