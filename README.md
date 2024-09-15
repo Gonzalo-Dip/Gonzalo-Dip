@@ -12,7 +12,8 @@
 </br>
 
 - 🔧 I am currently studying data science.
-- ❄️ I’m looking to collaborate on Open Source Projects.
+- 🌱 Developing Cambibot
+- 🎯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me  dipgonzalo2@gmail.com
 
 <hr>
